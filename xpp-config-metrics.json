@@ -1,6 +1,4 @@
-{
-  {
-    "Name": "aov",
-    "Explore": "quotes/quotes",
-  }
-}
+[{
+	"Name": "aov",
+	"Explore": "quotes/quotes"
+}]
